@@ -6,4 +6,4 @@ Bagian yang terdapat pada landing page yaitu :
 - Footer
 
 Bagian pertama yang akan saya buat yaitu :
--Navbar
+- Navbar
