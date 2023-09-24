@@ -1,0 +1,9 @@
+Pada projek kali ini saya akan membuat dan belajar bagaimana membuat landing page web sederhana
+Bagian yang terdapat pada landing page yaitu :
+- Navbar
+- Hero
+- layanan
+- Footer
+
+Bagian pertama yang akan saya buat yaitu :
+-Navbar
